@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="issuudl-saperoi",
-    version="0.1.0",
+    version="0.2.0",
     author="Saperoi",
     author_email="uesugi.sapero@gmail.com",
     description="A python-based individual page downloader for Issuu.",
@@ -17,8 +17,8 @@ setuptools.setup(
     },
     classifiers=[
         "Programming Language :: Python :: 3",
-        "License :: OSI Approved :: GNU GPL 3 License",
         "Operating System :: OS Independent",
+        "License :: OSI Approved :: GNU General Public License v3 (GPLv3)"
     ],
     packages=['issuudl'],
     python_requires=">=3.6",

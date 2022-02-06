@@ -1,3 +1,5 @@
 build/
 dist/
 issuudl_saperoi.egg-info/
+tests/
+issuudl/__pycache__/
