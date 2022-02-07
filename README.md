@@ -1,5 +1,5 @@
 # issuudl-py
-*A python-based individual page downloader for Issuu.*
+*A python-based downloader for Issuu.*
 ---
 # Functions
 ## download(url, end, ext, folder, start) and downloadWithId(id, end, ext, folder, start)
