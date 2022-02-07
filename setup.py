@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="issuudl-saperoi",
-    version="0.2.0",
+    version="0.2.1",
     author="Saperoi",
     author_email="uesugi.sapero@gmail.com",
     description="A python-based individual page downloader for Issuu.",
