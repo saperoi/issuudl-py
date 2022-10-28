@@ -1,6 +1,10 @@
 # issuudl-py
 *A python-based downloader for Issuu.*
 ---
+# Importing
+    import issuudl
+
+---
 # Functions
 ## download(url, end, ext, folder, start) and downloadWithId(id, end, ext, folder, start)
     download(url: str, end: int, ext: str, folder: str ="./", start: int = 1)
